@@ -20,5 +20,5 @@ better design
 🦄 Looking to the future
 
 more in-depth testing, with mocks and simulated actions
-design principles and better understanding of code architecture best practices
+design principles and better understanding of code architecture best practices and 
 implement real payment
